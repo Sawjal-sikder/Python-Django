@@ -1,0 +1,60 @@
+/* .container{
+    width: 50%;
+    background-color: beige;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+}
+.container h1{
+    color: blue;
+}
+
+.btn-primary{
+    background-color: purple;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.card{
+    background-color:#5555f1;
+    width: 80%;
+    margin: auto;
+    opacity: 1;
+    border-radius: 10px 20px;
+    
+}
+.card h3{
+    color: yellow;
+    border-bottom: 2px double  black;
+    padding: 10px 10px 5px 10px;
+}
+.card div{
+    padding: 10px 20px;
+} */
+
+
+*{
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container{
+    background-color: cadetblue;
+    width: 50%;
+    height: 300px;
+    margin-top: 30px;
+    padding-left: 40px;
+}
+.container h1 , p{
+    background-color: cadetblue;
+}
+.container a{
+    text-decoration: none;
+    background-color: cadetblue;
+    color: black;
+    text-transform: lowercase;
+
+}
+.container a:hover{
+    color: white;
+}
